@@ -1,5 +1,9 @@
 # ProxDocs
 
+> [!important]
+> If you fork, please leave a star,
+> It helps out the project ❤️
+
 Documentation and a modular generator for modern web proxies: Scramjet, Wisp,
 Bare, and their transport layers.
 
